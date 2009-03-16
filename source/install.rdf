@@ -4,7 +4,7 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>keyfixer@mavaball.net</em:id>
     <em:name>Keyfixer</em:name>
-    <em:version>0.4.1</em:version>
+    <em:version>0.4.2</em:version>
     <em:creator>Matthew V. Ball</em:creator>
     <em:contributor>Matthew V. Ball</em:contributor>
     <em:description>Changes keyboard bindings for Mac OS X users to match Windows key bindings</em:description>
@@ -15,7 +15,7 @@
       <Description>
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id> <!-- firefox -->
         <em:minVersion>2.0.0.8</em:minVersion>
-        <em:maxVersion>3.1b3pre</em:maxVersion>
+        <em:maxVersion>3.2a1pre</em:maxVersion>
       </Description>
     </em:targetApplication>
     <em:targetApplication>
