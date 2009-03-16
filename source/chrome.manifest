@@ -1,0 +1,3 @@
+content	keyfixer	jar:chrome/keyfixer.jar!/content/
+override chrome://global/content/platformHTMLBindings.xml	chrome://keyfixer/content/platformHTMLBindings_new_3.xml appversion>=3.0
+override chrome://global/content/platformHTMLBindings.xml	chrome://keyfixer/content/platformHTMLBindings_new_2.xml appversion<3.0
