@@ -2,12 +2,12 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
  xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
-    <em:id>keyfixer@mavaball.net</em:id>
+    <em:id>elliot.winkler@gmail.com</em:id>
     <em:name>Keyfixer</em:name>
-    <em:version>0.4.2</em:version>
-    <em:creator>Matthew V. Ball</em:creator>
-    <em:contributor>Matthew V. Ball</em:contributor>
-    <em:description>Changes keyboard bindings for Mac OS X users to match Windows key bindings</em:description>
+    <em:version>0.4.2ewm</em:version>
+    <em:creator>Elliot Winkler</em:creator>
+    <em:contributor>Elliot Winkler</em:contributor>
+    <em:description>Fixes 0.4.2 to bring back more OS X-like keybindings</em:description>
     <em:homepageURL>http://mavaball.net/wiki/index.php/Keyfixer</em:homepageURL>
     <em:iconURL>chrome://keyfixer/content/keyfixer.png</em:iconURL>
 	<em:targetPlatform>Darwin</em:targetPlatform>

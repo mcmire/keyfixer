@@ -1,8 +1,7 @@
-Firefox keyfixer extension 0.4 - Changes key bindings for Mac OS X to
-match those of Windows.
+Firefox keyfixer extension 0.4.2ewm - Fixes 0.4.2 to bring back more OS X-like keybindings
 
+Forked by Elliot Winkler <elliot dot winkler at gmail dot com>
 Written by Matthew V. Ball <matt.ball@ieee.org> (http://mavaball.net)
-
 Original keyfixer by Jim Mendenhall (http://www.starryhope.com)
 
 
