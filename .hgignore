@@ -1,6 +1,0 @@
-# mercurial ignore file -- tells hg to ignore files that match pattern
-# Ignore all hidden files
-syntax: glob
-
-.*
-
